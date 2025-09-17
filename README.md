@@ -15,10 +15,10 @@ This is the official implementation of our paper: THOR: Tool-Integrated Hierarch
 ## :fire: News:
 
 TODO:
-- [] Update arXiv preprint.
-- [] Update inference code.
-- [] Update training code.
-- [] Update the cold start dataset.
-
+- [ ] Update arXiv preprint.
+- [ ] Update inference code.
+- [ ] Update training code.
+- [ ] Update the cold start dataset.
+ 
 
 
