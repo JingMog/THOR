@@ -57,13 +57,13 @@ Our method, THOR, enhances tool-integrated reasoning with a three-stage pipeline
 ## 📊 Results
 
 ### Comparison With State-of-the-Art Methods
-![SOTA_result](assets/sota_result.png)
+![SOTA_result](assets/exp_sota_result.png)
 
 ### Effectiveness of TIRGen
-![effectiveness_of_TIRGen](assets/effectiveness_of_TIRGen.png)
+![effectiveness_of_TIRGen](assets/exp_effectiveness_of_TIRGen.png)
 
 ### Ablation Study
-![Ablation_Study](assets/Ablation_Study.png)
+![Ablation_Study](assets/exp_ablation_study.png)
 
 
 ## 📥 Installation
