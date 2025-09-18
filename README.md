@@ -1,8 +1,12 @@
 # 🚀 THOR: Tool-Integrated Hierarchical Optimization via RL for Mathematical Reasoning 🚀
 
+<p align="center">
+  <a href="https://arxiv.org/abs/2509.13761"><img src="https://img.shields.io/badge/arXiv-2509.13761-b31b1b.svg"></a>
+  <a href="https://papers.cool/arxiv/2509.13761"><img src="https://img.shields.io/badge/CoolPaper-Paper-blue"></a>
+  <a href="https://huggingface.co/papers/2509.13761"><img src="https://img.shields.io/badge/🤗%20Hugging%20Face-Data-blue"></a>
+</p>
 
-[![Paper](https://img.shields.io/badge/arXiv-2509.13761-b31b1b.svg)](https://arxiv.org/abs/2509.13761)
-[![HF Daily Papers](https://img.shields.io/badge/🤗%20Hugging%20Face-Model-blue)](https://huggingface.co/papers/2509.13761)
+
 
 ![Pipeline](assets/introduction.png)
 
@@ -14,7 +18,7 @@ TODO:
 - [x] Update arXiv preprint.
 - [ ] Update inference code.
 - [ ] Update training code.
-- [ ] Update the cold start dataset.
+- [ ] Update the TIRGen dataset.
 
 ## 🔍 Overview
 Large Language Models (LLMs) have advanced in mathematical reasoning but still struggle with precise computation and symbolic manipulation. THOR (Tool-Integrated Hierarchical Optimization via RL) addresses this by:
