@@ -6,6 +6,11 @@
   <a href="https://huggingface.co/papers/2509.13761"><img src="https://img.shields.io/badge/🤗%20Hugging%20Face-Data-blue"></a>
 </p>
 
+<p align="center">
+  <a href="https://huggingface.co/papers/2509.13761">
+    <img src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/daily_papers_rank1.png" width="80%">
+  </a>
+</p>
 
 
 ![Pipeline](assets/introduction.png)
@@ -13,6 +18,9 @@
 This is the official implementation of our paper **THOR: Tool-Integrated Hierarchical Optimization via RL for Mathematical Reasoning**.
 
 ## :fire: News:
+
+- 🎉🎉🎉 Our paper has been selected for the [🤗 Hugging Face Daily Papers](https://huggingface.co/papers/2509.13761)! Thanks to the community for the recognition and support 🚀
+
 
 TODO:
 - [x] Update arXiv preprint.
