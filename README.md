@@ -14,9 +14,12 @@ This is the official implementation of our paper **THOR: Tool-Integrated Hierarc
 ## :fire: News:
 
 - 🎉🎉🎉 Our paper has been selected for the [🤗 Hugging Face Daily Papers](https://huggingface.co/papers/2509.13761)! Thanks to the community for the recognition and support 🚀
+- 🎉🎉🎉Congratulations! Our paper has been accepted by ICLR 2026.
+
 
 
 TODO:
+
 - [x] Update arXiv preprint.
 - [ ] Update inference code.
 - [ ] Update training code.
