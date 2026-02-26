@@ -79,6 +79,8 @@ Our method, THOR, enhances tool-integrated reasoning with a three-stage pipeline
 ## 📥 Installation
 Step1. Install SandboxFusion
 ```bash
+git clone https://github.com/bytedance/SandboxFusion
+cd SandboxFusion
 # install sandboxfusion to support code execution
 conda create -n sandbox -y python=3.12
 conda activate sandbox
@@ -90,6 +92,8 @@ make run-online
 
 Step2. Install THOR environment
 ```bash
+git clone https://github.com/JingMog/THOR
+cd THOR
 conda create -n THOR -y python=3.10
 pip install -r requirements.txt
 ```
