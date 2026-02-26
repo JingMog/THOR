@@ -77,14 +77,46 @@ Our method, THOR, enhances tool-integrated reasoning with a three-stage pipeline
 
 
 ## 📥 Installation
-```python
-# TODO
+Step1. Install SandboxFusion
+```bash
+# install sandboxfusion to support code execution
+conda create -n sandbox -y python=3.12
+conda activate sandbox
+poetry install
+# to build the real docs, run `cd docs && npm ci && npm run build`
+mkdir -p docs/build
+make run-online
+```
+
+Step2. Install THOR environment
+```bash
+conda create -n THOR -y python=3.10
+pip install -r requirements.txt
 ```
 
 ## 🚀 Usage
-Inference Example
-```python
-# TODO
+
+### 1. TIRGen: TIR data construction pipeline
+```bash
+cd TIRGen
+bash construct_dataset_main.sh
+
+# multi_stage_filter
+bash filter.sh
+```
+
+### 2. TIR Inference
+```bash
+cd inference
+bash submit_bon_policy.sh
+```
+
+
+### 3. cold start
+Our cold start is based on swift
+```bash
+cd swift
+bash sft_demo.sh
 ```
 
 
