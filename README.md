@@ -117,7 +117,7 @@ bash submit_bon_policy.sh
 
 
 ### 3. cold start
-Our cold start is based on swift
+Our cold start is based on swift, the usage of ms-swift can be found in [ms-swift](https://github.com/modelscope/ms-swift).
 ```bash
 cd swift
 bash sft_demo.sh
