@@ -21,7 +21,8 @@ This is the official implementation of our paper **THOR: Tool-Integrated Hierarc
 TODO:
 
 - [x] Update arXiv preprint.
-- [ ] Update inference code.
+- [x] Update inference code.
+- [x] Update TIRGen code.
 - [ ] Update training code.
 - [ ] Update the TIRGen dataset.
 
