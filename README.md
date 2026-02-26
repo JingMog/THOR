@@ -103,6 +103,7 @@ pip install -r requirements.txt
 ### 1. TIRGen: TIR data construction pipeline
 ```bash
 cd TIRGen
+# TIR dataset construction
 bash construct_dataset_main.sh
 
 # multi_stage_filter
@@ -115,12 +116,16 @@ cd inference
 bash submit_bon_policy.sh
 ```
 
-
 ### 3. cold start
 Our cold start is based on swift, the usage of ms-swift can be found in [ms-swift](https://github.com/modelscope/ms-swift).
 ```bash
 cd swift
 bash sft_demo.sh
+```
+
+### 4. RL training
+```bash
+# TODO
 ```
 
 
