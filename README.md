@@ -17,15 +17,6 @@ This is the official implementation of our paper **THOR: Tool-Integrated Hierarc
 - 🎉🎉🎉Congratulations! Our paper has been accepted by ICLR 2026.
 
 
-
-TODO:
-
-- [x] Update arXiv preprint.
-- [x] Update inference code.
-- [x] Update TIRGen code.
-- [ ] Update training code.
-- [ ] Update the TIRGen dataset.
-
 ## 🔍 Overview
 Large Language Models (LLMs) have advanced in mathematical reasoning but still struggle with precise computation and symbolic manipulation. THOR (Tool-Integrated Hierarchical Optimization via RL) addresses this by:
 
